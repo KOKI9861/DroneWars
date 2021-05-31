@@ -2,7 +2,7 @@
 
 # DRONE WARS
 
-<img src="img/dronewars.gif">
+<img src="img/dronewars.gif" width=200%>
 
 
 
